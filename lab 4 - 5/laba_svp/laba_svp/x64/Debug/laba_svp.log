@@ -1,0 +1,5 @@
+﻿  laba_svp.cpp
+C:\Users\sanya\OneDrive\Рабочий стол\СВП ДРОЧЁТЫ\laba_svp\laba_svp\laba_svp.cpp(52,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sanya\OneDrive\Рабочий стол\СВП ДРОЧЁТЫ\laba_svp\laba_svp\laba_svp.cpp(55,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sanya\OneDrive\Рабочий стол\СВП ДРОЧЁТЫ\laba_svp\laba_svp\laba_svp.cpp(88): warning C4715: AbstractCar::drive: значение возвращается не при всех путях выполнения
+  laba_svp.vcxproj -> C:\Users\sanya\OneDrive\Рабочий стол\СВП ДРОЧЁТЫ\laba_svp\x64\Debug\laba_svp.exe

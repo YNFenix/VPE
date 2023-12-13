@@ -1,0 +1,6 @@
+0 0 "Point1"
+100 0 "Point2"
+200 100 "Point3"
+400 200 "Point4"
+329 188 "Point5"
+0 160 "Point6"
